@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://localhost:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:6.545233,
+https://github.com/bigcashwe2/GenVe/releases/download/c1017/v1002_0.ve
+#EXTINF:6.097533,
+https://github.com/bigcashwe2/GenVe/releases/download/c1017/v1002_1.ve
+#EXTINF:6.748533,
+https://github.com/bigcashwe2/GenVe/releases/download/c1017/v1002_2.ve
+#EXTINF:1.071367,
+https://github.com/bigcashwe2/GenVe/releases/download/c1017/v1002_3.ve
+#EXT-X-ENDLIST
+
