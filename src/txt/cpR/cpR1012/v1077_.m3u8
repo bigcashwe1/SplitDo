@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:13.901011,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/cpR1012/v1077_0.ve
+#EXTINF:13.791667,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/cpR1012/v1077_1.ve
+#EXTINF:13.791556,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/cpR1012/v1077_2.ve
+#EXTINF:11.755667,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/cpR1012/v1077_3.ve
+#EXT-X-ENDLIST
+
