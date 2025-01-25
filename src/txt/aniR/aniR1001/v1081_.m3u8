@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:19.933178,
+https://github.com/bigcashwe2/GenVe_aniR/releases/download/aniR1001/v1081_0.ve
+#EXTINF:9.965133,
+https://github.com/bigcashwe2/GenVe_aniR/releases/download/aniR1001/v1081_1.ve
+#EXTINF:9.965122,
+https://github.com/bigcashwe2/GenVe_aniR/releases/download/aniR1001/v1081_2.ve
+#EXTINF:9.965111,
+https://github.com/bigcashwe2/GenVe_aniR/releases/download/aniR1001/v1081_3.ve
+#EXTINF:3.266133,
+https://github.com/bigcashwe2/GenVe_aniR/releases/download/aniR1001/v1081_4.ve
+#EXT-X-ENDLIST
+

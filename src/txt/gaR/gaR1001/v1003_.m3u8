@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:45
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:45.011633,
+https://github.com/bigcashwe2/GenVe_gaR/releases/download/gaR1001/v1003_0.ve
+#EXTINF:45.011633,
+https://github.com/bigcashwe2/GenVe_gaR/releases/download/gaR1001/v1003_1.ve
+#EXTINF:42.008633,
+https://github.com/bigcashwe2/GenVe_gaR/releases/download/gaR1001/v1003_2.ve
+#EXTINF:7.941267,
+https://github.com/bigcashwe2/GenVe_gaR/releases/download/gaR1001/v1003_3.ve
+#EXT-X-ENDLIST
+
