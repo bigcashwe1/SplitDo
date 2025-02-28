@@ -5,9 +5,10 @@
 #EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
 #EXTINF:11.986556,
 https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1006_0.ve
-#EXTINF:12.028200,
+#EXTINF:8.996167,
 https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1006_1.ve
-#EXTINF:8.494333,
+#EXTINF:9.029489,
 https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1006_2.ve
+#EXTINF:2.498333,
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1006_3.ve
 #EXT-X-ENDLIST
-
