@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:17.266667,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1040_0.ve
+#EXTINF:17.133333,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1040_1.ve
+#EXTINF:17.166667,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1040_2.ve
+#EXTINF:0.466667,
+https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1040_3.ve
+#EXT-X-ENDLIST
+
