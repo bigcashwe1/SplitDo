@@ -4,9 +4,9 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
 #EXTINF:11.080944,
-https://github.com/bigcashwe2/GenVe_cR/releases/download/c1084/v1005_0.ve
+https://github.com/bigcashwe2/GenVe/releases/download/c1084/v1005_0.ve
 #EXTINF:9.533933,
-https://github.com/bigcashwe2/GenVe_cR/releases/download/c1084/v1005_1.ve
+https://github.com/bigcashwe2/GenVe/releases/download/c1084/v1005_1.ve
 #EXTINF:5.177544,
-https://github.com/bigcashwe2/GenVe_cR/releases/download/c1084/v1005_2.ve
+https://github.com/bigcashwe2/GenVe/releases/download/c1084/v1005_2.ve
 #EXT-X-ENDLIST

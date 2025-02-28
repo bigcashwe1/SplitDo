@@ -4,10 +4,10 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
 #EXTINF:46.142256,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1005/v1098_0.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1005/v1098_0.ve
 #EXTINF:43.481178,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1005/v1098_1.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1005/v1098_1.ve
 #EXTINF:0.903800,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1005/v1098_2.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1005/v1098_2.ve
 #EXT-X-ENDLIST
 

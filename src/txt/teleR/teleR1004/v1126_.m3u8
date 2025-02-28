@@ -4,18 +4,18 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
 #EXTINF:23.999856,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_0.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_0.ve
 #EXTINF:21.033122,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_1.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_1.ve
 #EXTINF:20.999789,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_2.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_2.ve
 #EXTINF:20.999600,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_3.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_3.ve
 #EXTINF:20.999789,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_4.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_4.ve
 #EXTINF:20.999589,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_5.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_5.ve
 #EXTINF:5.296467,
-https://github.com/bigcashwe2/GenVe_cpR/releases/download/teleR1004/v1126_6.ve
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1004/v1126_6.ve
 #EXT-X-ENDLIST
 
