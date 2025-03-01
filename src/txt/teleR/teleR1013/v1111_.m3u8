@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:15
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:15.062556,
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1013/v1111_0.ve
+#EXTINF:4.298689,
+https://github.com/bigcashwe2/GenVe_teleR/releases/download/teleR1013/v1111_1.ve
+#EXT-X-ENDLIST
