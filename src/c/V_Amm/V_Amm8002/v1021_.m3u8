@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:12.029933,
+https://github.com/bigcashwe2/V_Amm/releases/download/V_Amm8002/v1021_0.ve
+#EXTINF:8.973333,
+https://github.com/bigcashwe2/V_Amm/releases/download/V_Amm8002/v1021_1.ve
+#EXTINF:9.006667,
+https://github.com/bigcashwe2/V_Amm/releases/download/V_Amm8002/v1021_2.ve
+#EXTINF:10.975000,
+https://github.com/bigcashwe2/V_Amm/releases/download/V_Amm8002/v1021_3.ve
+#EXTINF:3.971956,
+https://github.com/bigcashwe2/V_Amm/releases/download/V_Amm8002/v1021_4.ve
+#EXT-X-ENDLIST
