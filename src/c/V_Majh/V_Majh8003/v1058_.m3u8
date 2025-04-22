@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:12.011111,
+https://github.com/bigcashwe2/V_Majh/releases/download/V_Majh8003/v1058_0.ve
+#EXTINF:9.000000,
+https://github.com/bigcashwe2/V_Majh/releases/download/V_Majh8003/v1058_1.ve
+#EXTINF:9.000000,
+https://github.com/bigcashwe2/V_Majh/releases/download/V_Majh8003/v1058_2.ve
+#EXTINF:12.000000,
+https://github.com/bigcashwe2/V_Majh/releases/download/V_Majh8003/v1058_3.ve
+#EXTINF:2.959122,
+https://github.com/bigcashwe2/V_Majh/releases/download/V_Majh8003/v1058_4.ve
+#EXT-X-ENDLIST
