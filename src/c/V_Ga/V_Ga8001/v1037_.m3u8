@@ -4,11 +4,11 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
 #EXTINF:10.790367,
-https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga1001/v1037_0.ve
+https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga8001/v1037_0.ve
 #EXTINF:9.796556,
-https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga1001/v1037_1.ve
+https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga8001/v1037_1.ve
 #EXTINF:9.796333,
-https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga1001/v1037_2.ve
+https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga8001/v1037_2.ve
 #EXTINF:4.729333,
-https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga1001/v1037_3.ve
+https://github.com/bigcashwe2/V_Ga/releases/download/V_Ga8001/v1037_3.ve
 #EXT-X-ENDLIST
