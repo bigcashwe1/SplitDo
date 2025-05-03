@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:11.557000,
+https://github.com/bigcashwe2/V_All/releases/download/V_All8054/v1022_0.ve
+#EXTINF:9.469000,
+https://github.com/bigcashwe2/V_All/releases/download/V_All8054/v1022_1.ve
+#EXTINF:9.002000,
+https://github.com/bigcashwe2/V_All/releases/download/V_All8054/v1022_2.ve
+#EXTINF:12.003000,
+https://github.com/bigcashwe2/V_All/releases/download/V_All8054/v1022_3.ve
+#EXTINF:2.968644,
+https://github.com/bigcashwe2/V_All/releases/download/V_All8054/v1022_4.ve
+#EXT-X-ENDLIST

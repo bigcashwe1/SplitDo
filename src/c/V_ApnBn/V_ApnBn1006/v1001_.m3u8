@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:11.389400,
+https://github.com/bigcashwe2/V_ApnBn/releases/download/V_ApnBn1006/v1001_0.ve
+#EXTINF:9.918033,
+https://github.com/bigcashwe2/V_ApnBn/releases/download/V_ApnBn1006/v1001_1.ve
+#EXTINF:10.049578,
+https://github.com/bigcashwe2/V_ApnBn/releases/download/V_ApnBn1006/v1001_2.ve
+#EXTINF:10.017756,
+https://github.com/bigcashwe2/V_ApnBn/releases/download/V_ApnBn1006/v1001_3.ve
+#EXTINF:0.391933,
+https://github.com/bigcashwe2/V_ApnBn/releases/download/V_ApnBn1006/v1001_4.ve
+#EXT-X-ENDLIST
