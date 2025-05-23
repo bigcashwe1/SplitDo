@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:10.344011,
+https://github.com/bigcashwe2/V_Paki/releases/download/V_Paki1009/v1019_0.ve
+#EXTINF:10.548411,
+https://github.com/bigcashwe2/V_Paki/releases/download/V_Paki1009/v1019_1.ve
+#EXTINF:10.552722,
+https://github.com/bigcashwe2/V_Paki/releases/download/V_Paki1009/v1019_2.ve
+#EXTINF:9.286422,
+https://github.com/bigcashwe2/V_Paki/releases/download/V_Paki1009/v1019_3.ve
+#EXTINF:8.407989,
+https://github.com/bigcashwe2/V_Paki/releases/download/V_Paki1009/v1019_4.ve
+#EXT-X-ENDLIST

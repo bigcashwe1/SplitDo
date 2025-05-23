@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:10.533333,
+https://github.com/bigcashwe2/V_Lover/releases/download/V_Lover1005/v1046_0.ve
+#EXTINF:10.033333,
+https://github.com/bigcashwe2/V_Lover/releases/download/V_Lover1005/v1046_1.ve
+#EXTINF:11.633333,
+https://github.com/bigcashwe2/V_Lover/releases/download/V_Lover1005/v1046_2.ve
+#EXTINF:7.766667,
+https://github.com/bigcashwe2/V_Lover/releases/download/V_Lover1005/v1046_3.ve
+#EXT-X-ENDLIST
