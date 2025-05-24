@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:10.949100,
+https://github.com/bigcashwe2/V_Hidd/releases/download/V_Hidd1001/v1002_0.ve
+#EXTINF:1.682844,
+https://github.com/bigcashwe2/V_Hidd/releases/download/V_Hidd1001/v1002_1.ve
+#EXT-X-ENDLIST

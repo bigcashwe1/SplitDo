@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:11.880789,
+https://github.com/bigcashwe2/V_Pc/releases/download/V_Pc8002/v1014_0.ve
+#EXTINF:9.900667,
+https://github.com/bigcashwe2/V_Pc/releases/download/V_Pc8002/v1014_1.ve
+#EXTINF:2.739178,
+https://github.com/bigcashwe2/V_Pc/releases/download/V_Pc8002/v1014_2.ve
+#EXT-X-ENDLIST
