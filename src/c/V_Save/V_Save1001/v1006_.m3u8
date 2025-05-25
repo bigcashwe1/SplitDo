@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:10.899100,
+https://github.com/bigcashwe2/V_Save/releases/download/V_Save1001/v1006_0.ve
+#EXTINF:9.908422,
+https://github.com/bigcashwe2/V_Save/releases/download/V_Save1001/v1006_1.ve
+#EXTINF:9.908589,
+https://github.com/bigcashwe2/V_Save/releases/download/V_Save1001/v1006_2.ve
+#EXTINF:4.888111,
+https://github.com/bigcashwe2/V_Save/releases/download/V_Save1001/v1006_3.ve
+#EXT-X-ENDLIST

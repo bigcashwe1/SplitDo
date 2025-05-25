@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:11.969389,
+https://github.com/bigcashwe2/V_Ani/releases/download/V_Ani8002/v1016_0.ve
+#EXTINF:9.043756,
+https://github.com/bigcashwe2/V_Ani/releases/download/V_Ani8002/v1016_1.ve
+#EXTINF:11.969711,
+https://github.com/bigcashwe2/V_Ani/releases/download/V_Ani8002/v1016_2.ve
+#EXTINF:9.010511,
+https://github.com/bigcashwe2/V_Ani/releases/download/V_Ani8002/v1016_3.ve
+#EXTINF:2.659800,
+https://github.com/bigcashwe2/V_Ani/releases/download/V_Ani8002/v1016_4.ve
+#EXT-X-ENDLIST

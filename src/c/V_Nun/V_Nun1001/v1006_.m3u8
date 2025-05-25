@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:10.784611,
+https://github.com/bigcashwe2/V_Nun/releases/download/V_Nun1001/v1006_0.ve
+#EXTINF:10.031678,
+https://github.com/bigcashwe2/V_Nun/releases/download/V_Nun1001/v1006_1.ve
+#EXTINF:9.998356,
+https://github.com/bigcashwe2/V_Nun/releases/download/V_Nun1001/v1006_2.ve
+#EXTINF:10.031678,
+https://github.com/bigcashwe2/V_Nun/releases/download/V_Nun1001/v1006_3.ve
+#EXTINF:0.832878,
+https://github.com/bigcashwe2/V_Nun/releases/download/V_Nun1001/v1006_4.ve
+#EXT-X-ENDLIST

@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:25
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="http://127.0.0.1:8080/enc.key",IV=0x00000000000000000000000000000000
+#EXTINF:24.900000,
+https://github.com/bigcashwe2/V_MamaChaBn/releases/download/V_MamaChaBn1001/v1019_0.ve
+#EXTINF:25.000000,
+https://github.com/bigcashwe2/V_MamaChaBn/releases/download/V_MamaChaBn1001/v1019_1.ve
+#EXTINF:16.100000,
+https://github.com/bigcashwe2/V_MamaChaBn/releases/download/V_MamaChaBn1001/v1019_2.ve
+#EXTINF:24.900000,
+https://github.com/bigcashwe2/V_MamaChaBn/releases/download/V_MamaChaBn1001/v1019_3.ve
+#EXTINF:5.400000,
+https://github.com/bigcashwe2/V_MamaChaBn/releases/download/V_MamaChaBn1001/v1019_4.ve
+#EXT-X-ENDLIST
